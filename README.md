@@ -1,6 +1,6 @@
 My Git Project
 
-Code for my get project
+My Scary merge conflict code
 
 ## I'm in the feature branch
 
